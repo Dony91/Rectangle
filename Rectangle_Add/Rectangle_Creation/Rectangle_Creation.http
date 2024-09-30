@@ -1,0 +1,6 @@
+@Rectangle_Creation_HostAddress = http://localhost:5263
+
+GET {{Rectangle_Creation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

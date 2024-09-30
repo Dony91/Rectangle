@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Rectangle_Creation", "Rectangle_Creation\Rectangle_Creation.csproj", "{50F07464-9806-4AC2-91AF-568068AA7FFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50F07464-9806-4AC2-91AF-568068AA7FFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50F07464-9806-4AC2-91AF-568068AA7FFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50F07464-9806-4AC2-91AF-568068AA7FFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50F07464-9806-4AC2-91AF-568068AA7FFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EFD834B-B59C-414E-84DC-517CAF61B303}
+	EndGlobalSection
+EndGlobal
